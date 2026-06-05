@@ -1,0 +1,33 @@
+site:
+  slug: firstlightfield
+  domain: firstlightfield.com
+  brand_name: First Light Field
+  tagline: Tested under dark skies.
+  description: Telescope and astronomy gear reviews for serious backyard observers
+  niche: astronomy
+affiliate:
+  amazon_tracking_id: firstlightfld-20
+analytics:
+  ga4_measurement_id: G-XXXXXXXXXX
+persona:
+  config_path: config/personas/james-calloway.yaml
+visual:
+  primary_color: '#1C2B4A'
+  accent_color: '#C8921B'
+  background_color: '#F5F6F8'
+  font_headings: Libre Baskerville
+  font_body: Lato
+  slots: 5
+images:
+  base_url: /images
+style_policy:
+  word_count:
+    min: 2000
+    max: 3500
+  dollar_figures:
+    allowed: true
+  buying_guide_heading:
+    style: Buying Guide
+  in_body_images:
+    policy: none
+    fixed_count: null

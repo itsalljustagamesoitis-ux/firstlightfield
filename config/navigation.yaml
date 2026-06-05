@@ -1,0 +1,40 @@
+categories:
+  - slug: astronomy
+    label: Astronomy
+    hubs:
+      - slug: telescopes
+        label: Telescopes
+        description: >-
+          Refractors, Newtonians, Dobsonians, SCTs, and Mak-Cassegrains reviewed for visual observing and imaging —
+          aperture, optical quality, and real-world field performance.
+        articles: []
+      - slug: mounts
+        label: Mounts
+        description: >-
+          Equatorial, alt-az, GoTo systems, and star trackers reviewed for tracking accuracy, payload capacity, and
+          long-term reliability.
+        articles: []
+      - slug: eyepieces
+        label: Eyepieces
+        description: >-
+          Wide-field and planetary eyepieces, Barlows, diagonals, and binoviewers reviewed for eye relief, field edge
+          sharpness, and coatings.
+        articles: []
+      - slug: astrophotography
+        label: Astrophotography
+        description: >-
+          Dedicated astronomy cameras, guide systems, narrowband filters, and image processing tools for deep-sky and
+          planetary imaging.
+        articles: []
+      - slug: binoculars
+        label: Binoculars
+        description: >-
+          Astronomy binoculars reviewed for aperture, magnification, exit pupil, and twilight performance for wide-field
+          sky observation.
+        articles: []
+      - slug: accessories
+        label: Accessories
+        description: >-
+          Collimators, dew heaters, red flashlights, finder scopes, carrying cases, and the small-ticket gear that makes
+          a session actually work.
+        articles: []
