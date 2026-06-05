@@ -1,5 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" width="200" height="40" aria-label="Site logo">
-  <!-- Replace with real logo before launch -->
-  <rect width="200" height="40" fill="none"/>
-  <text x="0" y="28" font-family="serif" font-size="24" font-weight="bold" fill="currentColor">{{BRAND_NAME}}</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212 44" width="212" height="44" aria-label="First Light Field">
+  <!-- Constellation mark: three stars in diagonal -->
+  <line x1="5" y1="39" x2="16" y2="23" stroke="#ffffff" stroke-width="0.8" opacity="0.35"/>
+  <line x1="16" y1="23" x2="27" y2="9"  stroke="#ffffff" stroke-width="0.8" opacity="0.35"/>
+  <circle cx="5"  cy="39" r="2.2" fill="rgba(255,255,255,0.55)"/>
+  <circle cx="16" cy="23" r="3.5" fill="rgba(200,146,27,0.90)"/>
+  <circle cx="27" cy="9"  r="2"   fill="rgba(255,255,255,0.80)"/>
+  <!-- FIRST LIGHT — small tracked caps, dimmed white -->
+  <text
+    x="37" y="19"
+    font-family="Libre Baskerville, Georgia, serif"
+    font-size="10" font-weight="400"
+    fill="rgba(255,255,255,0.70)" letter-spacing="2.5"
+  >FIRST LIGHT</text>
+  <!-- Field — large bold white -->
+  <text
+    x="36" y="40"
+    font-family="Libre Baskerville, Georgia, serif"
+    font-size="20" font-weight="700"
+    fill="#ffffff"
+  >Field</text>
 </svg>

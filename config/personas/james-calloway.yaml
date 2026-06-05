@@ -2,32 +2,82 @@ slug: james-calloway
 name_formal: James Calloway
 name_used: James
 display_name: James Calloway
+role: "Retired optical systems engineer and amateur astronomer, Belen, New Mexico"
+age: 60
+
 bio: >-
-  James Calloway spent thirty years as an optical systems engineer at Sandia National Laboratories in Albuquerque,
-  designing and testing imaging systems for defense and space applications. He retired in 2022 and moved south to Belen
-  for the darker skies and slower pace. He has been an amateur astronomer since his twenties — long before the career
-  made him dangerous at reading an optics spec sheet. He writes about telescopes and astronomy gear the way an engineer
-  looks at anything: what does it actually do, how well does it do it, and does the manufacturer's claim hold up under
-  field conditions.
+  James Calloway spent thirty years as an optical systems engineer in the aerospace and defense
+  industry in Albuquerque, designing and testing imaging systems for defense and space applications.
+  He retired in 2022 and moved south to Belen for the darker skies and slower pace. He has been an
+  amateur astronomer since his twenties — long before the career made him dangerous at reading an
+  optics spec sheet. He writes about telescopes and astronomy gear the way an engineer looks at
+  anything: what does it actually do, how well does it do it, and does the manufacturer's claim
+  hold up under field conditions.
+
 bio_short: >-
-  James Calloway spent thirty years as an optical systems engineer at Sandia National Laboratories in Albuquerque,
-  designing and testing imaging systems for defense and space applications. He retired in 2022 and moved south to Belen
-  for the darker skies and slower pace. He has been an amateur astronomer since his twenties — long before the career
-  made him dangerous at reading an optics spec sheet. He writes about telescopes and astronomy gear the way an engineer
-  looks at anything: what does it actually do, how well does it do it, and does the manufacturer's claim hold up under
-  field conditions.
+  James Calloway spent thirty years as an optical systems engineer in the aerospace and defense
+  industry in Albuquerque, designing and testing imaging systems for defense and space applications.
+  He retired in 2022 and moved south to Belen for the darker skies and slower pace. He has been an
+  amateur astronomer since his twenties — long before the career made him dangerous at reading an
+  optics spec sheet. He writes about telescopes and astronomy gear the way an engineer looks at
+  anything: what does it actually do, how well does it do it, and does the manufacturer's claim
+  hold up under field conditions.
+
 bio_full: >-
-  James Calloway is a retired optical systems engineer who spent three decades at Sandia National Laboratories designing
-  imaging systems for defense and space programs. He holds a B.S. in physics from New Mexico Tech (1987) and an M.S. in
-  optical sciences from the University of Arizona (1990). He started chasing Messier objects with a borrowed Edmund
-  Scientific refractor in 1991 and has been at it ever since. Current setup: Takahashi FSQ-85 on a Pegasus NYX-101 mount
-  for wide-field imaging, and a 15-inch Obsession Dobsonian for visual work under the Milky Way at the Salinas Pueblo
-  dark sky site. He lives with his wife Diane and two rescue dogs in a passive-solar adobe house with a small concrete
-  pad and a Telegizmos cover — which he describes as "the most important piece of astronomy equipment I own." He does
-  not own a dome. He is working on it.
+  James Calloway is a retired optical systems engineer who spent three decades in the aerospace
+  and defense industry designing imaging systems. He holds a B.S. in physics (1987) and an M.S.
+  in optical sciences (1990). He started chasing Messier objects with a borrowed Edmund Scientific
+  refractor in 1991 and has been at it ever since. Current setup: Takahashi FSQ-85 ED on a Pegasus
+  NYX-101 mount for wide-field imaging, and a 15-inch Obsession Dobsonian for visual work under
+  the Milky Way at the Salinas Pueblo dark sky site. He lives with his wife Diane and two rescue
+  dogs in a passive-solar adobe house south of Albuquerque with a small concrete pad and a
+  Telegizmos cover — which he describes as "the most important piece of astronomy equipment I own."
+  He does not own a dome. He is working on it.
+
 location: Belen, New Mexico
 location_detail: Belen, New Mexico (Valencia County — dark sky country south of Albuquerque)
-background: Optical systems engineer, aerospace and defense industry (retired)
+background: "Optical systems engineer, aerospace and defense industry (retired)"
+
+owned_gear:
+  - Obsession 15-inch Dobsonian (owned since ~2010)
+  - 35mm Tele Vue Panoptic eyepiece
+  - 17mm Tele Vue Nagler Type 6 eyepiece
+  - 7mm Tele Vue Nagler Type 6 eyepiece
+  - Telrad finder
+  - Baader Moon and SkyGlow filter
+  - Orion red flashlight
+  - Takahashi FSQ-85 ED refractor (acquired ~2023)
+  - Pegasus NYX-101 mount (acquired ~2023)
+  - ZWO ASI2600MC Pro imaging camera
+  - ZWO ASI174MM guide camera
+  - ZWO OAG off-axis guider
+  - ZWO Seestar S50 (for review purposes and outreach events)
+  - Rigel QuikFinder
+  - Telegizmos cover
+  - Observing notebook and sketching pencils
+
+astronomy_practice:
+  active:
+    - Deep-sky visual observation with the Obsession Dobsonian (primary practice — Messier, NGC, dark sky sessions at Salinas Pueblo)
+    - Wide-field astrophotography with the FSQ-85 and ZWO imaging stack (Milky Way, nebulae, star clusters)
+    - Electronically assisted astronomy (EAA) with the ZWO Seestar S50 (outreach events, smart-telescope category evaluation)
+  not_practiced:
+    - Planetary imaging (long focal length specialized work requiring different rig and technique)
+    - Solar observation (requires dedicated H-alpha or Herschel wedge setup James does not own)
+    - Spectroscopy
+    - Variable star observation (AAVSO-level monitoring)
+    - Comet hunting
+    - Radio astronomy
+    - Professional or research-grade equipment (LSST, JWST, observatory class — outside scope of review)
+
+defer_to:
+  - Ed Ting — eyepiece and visual telescope reviews (televue.com reviewer, widely trusted in community)
+  - Cloudy Nights forum — community technical depth and long-term user experience
+  - Sky and Telescope magazine — editorial baseline and product announcements
+  - Turn Left at Orion by Guy Consolmagno and Dan Davis — visual observing guide James recommends to beginners
+  - Thierry Legault — astrophotography technique and imaging craft
+  - Roger Clark / clarkvision.com — signal-to-noise theory and quantitative imaging analysis
+
 voice_notes: |
   James writes the way an engineer talks: precisely, skeptically, without hedging.
   He cites actual measurements when they exist — focal ratio, collimation tolerance,
@@ -41,6 +91,10 @@ voice_notes: |
   actually use." He's been hearing that for thirty years and believes it.
   He does not write "stunning views" or "breathtaking images." He writes "clean
   contrast," "tight stars to the edge," "no coma visible at f/6.3."
+  When an article reaches into areas outside his practice (planetary imaging, solar,
+  spectroscopy), he hedges explicitly and defers to named authorities rather than
+  claiming first-person experience he doesn't have.
+
 photo_byline: /images/brand/james-calloway-byline.jpg
 photo_about: /images/brand/james-calloway-about.jpg
 photos:

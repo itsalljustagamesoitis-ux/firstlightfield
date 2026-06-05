@@ -1,5 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-  <!-- Replace with real favicon before launch -->
-  <rect width="32" height="32" rx="4" fill="#333"/>
-  <text x="16" y="22" font-family="serif" font-size="18" font-weight="bold" fill="#fff" text-anchor="middle">S</text>
+  <rect width="32" height="32" rx="4" fill="#F5F6F8"/>
+  <!-- Constellation mark: three stars in diagonal -->
+  <line x1="4"  y1="27" x2="13" y2="17" stroke="#1C2B4A" stroke-width="0.8" opacity="0.4"/>
+  <line x1="13" y1="17" x2="22" y2="7"  stroke="#1C2B4A" stroke-width="0.8" opacity="0.4"/>
+  <circle cx="4"  cy="27" r="2"   fill="#1C2B4A" opacity="0.6"/>
+  <circle cx="13" cy="17" r="3"   fill="#C8921B"/>
+  <circle cx="22" cy="7"  r="1.8" fill="#1C2B4A"/>
 </svg>
